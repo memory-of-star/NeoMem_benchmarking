@@ -1,0 +1,13 @@
+{ 
+    "method": "pebs",
+    "event": [
+        {
+            "name": "L3_MISS_LOADS", 
+            "config": "0x01d3",
+            "sample_period": "997"
+        }
+    ],
+    "granularity": "1",
+    "cpu": "16",
+    "time": 20000
+}

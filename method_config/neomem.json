@@ -1,0 +1,7 @@
+{
+    "method":"neomem",
+    "migration_interval": 10000,
+    "clear_interval": 500,
+    "threshold": 10,
+    "hist_period": 500
+}

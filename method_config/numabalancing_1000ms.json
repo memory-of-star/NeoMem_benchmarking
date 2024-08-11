@@ -1,0 +1,8 @@
+{
+    "method": "numabalancing",
+    "hot_threshold_ms": 1000,
+    "scan_delay_ms": 1000,
+    "scan_period_max_ms": 3000,
+    "scan_period_min_ms": 1000,
+    "scan_size_mb": 256
+}

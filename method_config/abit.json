@@ -1,0 +1,8 @@
+{ 
+    "method": "abit",
+    "aggr_interval": 5000000,
+    "sample_interval": 5000000,
+    "min_accesses": 1,
+    "quota_ms": 1000,
+    "quota_sz": 268435456
+}

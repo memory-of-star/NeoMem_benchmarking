@@ -1,0 +1,7 @@
+{
+    "method":"neoprof",
+    "migration_interval": 10000,
+    "clear_interval": 1,
+    "threshold": 5,
+    "hist_period": 500
+}
